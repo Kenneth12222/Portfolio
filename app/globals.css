@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a {
+  cursor: pointer;
+}
+
+.logo-size {
+  cursor: pointer;
+  font-size: 50px;
+}
